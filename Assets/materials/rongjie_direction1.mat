@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: rongjie_direction1
+  m_Shader: {fileID: 4800000, guid: 3a01108087c7ed74eba93c4a61905f33, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 2706ce56ecf7dd540ae560b659547753, type: 3}
+        m_Scale: {x: 3.07, y: 1.82}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseMap:
+        m_Texture: {fileID: 2800000, guid: 572cfb99afdd61f4fab8e11afd40ce31, type: 3}
+        m_Scale: {x: 1, y: 2}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Cutout: 0.197
+    - _Debug: 0
+    - _Float: 0
+    - _LineWidth: 0.065
+    - _OffsetY: 0.14
+    m_Colors:
+    - _MainColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Speed: {r: 0.3, g: -6, b: 0.1, a: -1}
+    - _Vector: {r: 0.34, g: 0.85, b: 0.92, a: 1}
+  m_BuildTextureStacks: []
