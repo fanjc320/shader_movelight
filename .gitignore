@@ -1,0 +1,17 @@
+.vs/
+Temp/
+Logs/
+obj/
+*_Build/
+*.csproj
+*.sln
+Library/*
+!Library/LastSceneManagerSetup.txt
+face_BackUpThisFolder_ButDontShipItWithYourGame/
+face_mesh_BackUpThisFolder_ButDontShipItWithYourGame/
+liuguang_BackUpThisFolder_ButDontShipItWithYourGame/
+object_tracking_BackUpThisFolder_ButDontShipItWithYourGame/
+img_trackingapk_BackUpThisFolder_ButDontShipItWithYourGame/
+Assets/Particle Ribbon by Moonflower Carnivore
+menu_BackUpThisFolder_ButDontShipItWithYourGame/
+world_map_BackUpThisFolder_ButDontShipItWithYourGame/
