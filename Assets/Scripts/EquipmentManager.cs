@@ -77,3 +77,7 @@ public class EquipmentManager : MonoBehaviour
         smr.bones = bones;//!!!!!!这样，avartar的骨骼赋值给了鞋子，衣服，avartar在动画时，就可以带动鞋子，衣服啦
     }
 }
+
+//原项目地址
+// 通过换mesh实现换装,不同mesh，不同的skinnedmesh,共用骨骼
+//https://github.com/moecia/UnityClothesSample.git

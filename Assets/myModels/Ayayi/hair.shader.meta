@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bcf004964853ca248ab7b5adb11fbb38
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _low_ayayi_ayayi_hair_main1_Normal: {fileID: 2800000, guid: 1da3ba94df069a142b0d8164615e6b5b,
+      type: 3}
+  - _low_ayayi_ayayi_hair_main1_BaseMap: {fileID: 2800000, guid: 8c1a4050a4e197644affa6d06a290d10,
+      type: 3}
+  - _low_ayayi_ayayi_hair_main1_MaskMap: {fileID: 2800000, guid: 31bac00ae24453a4c8ac604193f3a62f,
+      type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
